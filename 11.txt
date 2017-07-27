@@ -6,3 +6,5 @@ Creating a new branch is quick and simple
 >>>>>>> feature1
 
 111111
+
+Git is a free software
